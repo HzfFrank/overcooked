@@ -21,7 +21,7 @@ Execute the above instructions in Windows terminal and it will show the game int
 
 Player1 :boy: can be controlled by ```"WASD"``` (which represent moving up, left, down, right respectively), ```"Space"``` (which represents pick up or put down items) and ```"J"``` (which represents interacting, such as cooking and washing dirty plates).
 
-Player2 :girl: can be controlled by the direction keys on the keyboard :arrow_up: :arrow_left: :arrow_down: :arrow_right: (which represent moving up, left, down, right), ```"Enter"``` (which represents pick up or put down items) and ```"Ctrl"``` (which represents interacting, such as cooking and washing dirty plates).
+Player2 :girl: can be controlled by the direction keys on the keyboard :arrow_up: :arrow_left: :arrow_down: :arrow_right: (which represent moving up, left, down, right respectively), ```"Enter"``` (which represents pick up or put down items) and ```"Ctrl"``` (which represents interacting, such as cooking and washing dirty plates).
 
 The top left corner shows the current outstanding orders and scores
 
