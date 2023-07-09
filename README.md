@@ -39,7 +39,7 @@ QtOvercooked.exe -l ..\overcooked\maps\level1\level1-1.txt -p ..\overcooked\cmak
 
 The logic it automatically runs is to control the player's movement based on the output string in main.cpp, in frame x, you are supposed to output ```"Frame" + x``` in the first line and output ```"Move [LRUD]*n"``` or ```"Interact [LRUD]*n"``` or ```"PutOrPick [LRUD]*n"``` in the second line.
 
-Here also provided two efficient auxiliary tools to help you check your result: 
+Here also provides two efficient auxiliary tools to help you check your result: 
 
 ```
 cd QtOvercooked
