@@ -41,13 +41,17 @@ The logic it automatically runs is to control the player's movement based on the
 
 Here also provides two efficient auxiliary tools to help you check your result: 
 
+**`runner.exe`**
+
 ```
 cd QtOvercooked
 runner.exe -l ..\overcooked\maps\level1\level1-1.txt -p ..\overcooked\cmake-build-debug\main.exe
 ```
 Execute the above instructions in Windows terminal and it will show your score in a short time.
 
-run ```QtOvercooked.exe -l ..\overcooked\maps\level1\level1-1.txt -p ..\overcooked\cmake-build-debug\main.exe``` and then check the ```clilog.txt``` in the ```QtOvercooked``` it will show all the string that was just output and input during program execution.
+**`clilog.txt`**
+
+run ```QtOvercooked.exe -l ..\overcooked\maps\level1\level1-1.txt -p ..\overcooked\cmake-build-debug\main.exe``` and then check the ```clilog.txt``` in the `QtOvercooked` dir, it will show all the string that was just output and input during program execution.
 
 Here is the score this original code can get: 
 
